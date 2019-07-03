@@ -1,4 +1,4 @@
-# Mobile_Games_AB_Testing
+# Mobile Games: AB Testing & Player Retention
 
 This project is based on a mini project from <a href="https://www.datacamp.com/projects/184">Datacamp</a>.
 
