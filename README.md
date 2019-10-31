@@ -14,5 +14,5 @@ As players progress through the levels of the game, they will occasionally encou
 The dataset is publicly available on Datacamp, which can be retrieved from https://www.datacamp.com/projects/184.
 
 ## Data Analysis
-Please see codes in the file ***Mobile_Games_AB_Testing***.
+Please see codes in the file ***Mobile_Games_AB_Testing***. (Alternatively, visit my Kaggle page https://www.kaggle.com/yufengsui/datacamp-mini-project-mobile-games-a-b-testing)
 
